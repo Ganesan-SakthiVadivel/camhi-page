@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ganesan-SakthiVadivel/camhi-page/static/css/main.5dd8cf51.css",
-    "main.js": "/Ganesan-SakthiVadivel/camhi-page/static/js/main.647f7a4f.js",
+    "main.js": "/Ganesan-SakthiVadivel/camhi-page/static/js/main.a4dc45ea.js",
     "static/js/919.0716376c.chunk.js": "/Ganesan-SakthiVadivel/camhi-page/static/js/919.0716376c.chunk.js",
     "static/media/sarvesh.jpg": "/Ganesan-SakthiVadivel/camhi-page/static/media/sarvesh.b7904cce6155a6acff8b.jpg",
     "static/media/camhieventflyer9.jpg": "/Ganesan-SakthiVadivel/camhi-page/static/media/camhieventflyer9.95c55da69488f7b41371.jpg",
@@ -60,11 +60,11 @@
     "static/media/srirams.jpg": "/Ganesan-SakthiVadivel/camhi-page/static/media/srirams.0b9f71d33aec350e6756.jpg",
     "index.html": "/Ganesan-SakthiVadivel/camhi-page/index.html",
     "main.5dd8cf51.css.map": "/Ganesan-SakthiVadivel/camhi-page/static/css/main.5dd8cf51.css.map",
-    "main.647f7a4f.js.map": "/Ganesan-SakthiVadivel/camhi-page/static/js/main.647f7a4f.js.map",
+    "main.a4dc45ea.js.map": "/Ganesan-SakthiVadivel/camhi-page/static/js/main.a4dc45ea.js.map",
     "919.0716376c.chunk.js.map": "/Ganesan-SakthiVadivel/camhi-page/static/js/919.0716376c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5dd8cf51.css",
-    "static/js/main.647f7a4f.js"
+    "static/js/main.a4dc45ea.js"
   ]
 }
