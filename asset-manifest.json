@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/camhi-page/static/css/main.5dd8cf51.css",
-    "main.js": "/camhi-page/static/js/main.6317a2e7.js",
+    "main.css": "/camhi-page/static/css/main.21d19342.css",
+    "main.js": "/camhi-page/static/js/main.4e712e8d.js",
     "static/js/919.0716376c.chunk.js": "/camhi-page/static/js/919.0716376c.chunk.js",
     "static/media/sarvesh.jpg": "/camhi-page/static/media/sarvesh.b7904cce6155a6acff8b.jpg",
     "static/media/camhieventflyer9.jpg": "/camhi-page/static/media/camhieventflyer9.95c55da69488f7b41371.jpg",
@@ -59,12 +59,12 @@
     "static/media/jayadurga.jpg": "/camhi-page/static/media/jayadurga.88547064532ccdbef1f2.jpg",
     "static/media/srirams.jpg": "/camhi-page/static/media/srirams.0b9f71d33aec350e6756.jpg",
     "index.html": "/camhi-page/index.html",
-    "main.5dd8cf51.css.map": "/camhi-page/static/css/main.5dd8cf51.css.map",
-    "main.6317a2e7.js.map": "/camhi-page/static/js/main.6317a2e7.js.map",
+    "main.21d19342.css.map": "/camhi-page/static/css/main.21d19342.css.map",
+    "main.4e712e8d.js.map": "/camhi-page/static/js/main.4e712e8d.js.map",
     "919.0716376c.chunk.js.map": "/camhi-page/static/js/919.0716376c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dd8cf51.css",
-    "static/js/main.6317a2e7.js"
+    "static/css/main.21d19342.css",
+    "static/js/main.4e712e8d.js"
   ]
 }
